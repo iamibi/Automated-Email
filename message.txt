@@ -1,0 +1,16 @@
+Dear ${PERSON_NAME},
+
+Greetings from IIM Ranchi!
+
+We hope you are doing well.
+
+We would like to take this opportunity to invite your esteemed organization for being empanelled for our college event.
+
+Invitation for ‘Colloquium – A Leadership Talk Series’
+
+We are pleased to introduce Colloquium as an annual series of guest lectures by industry leaders and corporate honchos where they share their insights with our students in a vibrant exchange of ideas and thoughts.
+
+We invite you to participate in our event and emphasize the holistic development of the young individuals, we firmly believe that our students stand to learn a great deal from the experience and knowledge of your admired company ${COMPANY_NAME}.
+
+Thanks and Regards,
+Sanchita Chakraborty
