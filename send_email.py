@@ -103,7 +103,3 @@ class SendEmail:
 
         # Terminate the SMTP session and close the connection
         smtp.quit()
-
-
-if __name__ == '__main__':
-    main()
